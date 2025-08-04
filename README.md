@@ -1,15 +1,15 @@
 # HR-Dashboard
 
-1.Project Title:
+1. Project Title:
 
 HR Pulse: Employee Attrition and Engagement Insights Dashboard
 A strategic Power BI dashboard designed to analyze workforce dynamics, track attrition trends, and evaluate job satisfaction across departments, age groups, and educational fields.
 
-2.Purpose :
+2. Purpose :
 
 The HR Pulse Dashboard provides a comprehensive visual summary of employee attrition patterns and satisfaction levels across an organization of 1,470 employees. It helps HR teams, executives, and decision-makers uncover key workforce trends related to age, department, education, and gender to improve retention strategies and workforce planning.
 
-3.Tech Stack :
+3. Tech Stack :
 
 The dashboard was developed using the following tools and technologies:
 	•	Power BI Desktop – Core platform for building interactive dashboards.
@@ -18,7 +18,7 @@ The dashboard was developed using the following tools and technologies:
 	•	Data Modeling – Tables connected via employee demographics, roles, and education fields to enable interactive cross-filtering.
 	•	File Format – Developed in .pbix and exported as .jpeg for preview sharing.
 
-4.Data Source :
+4. Data Source :
 
 Internal HRIS (Human Resource Information System)
 This dashboard is powered by structured internal employee data, including details such as:
@@ -30,7 +30,7 @@ This dashboard is powered by structured internal employee data, including detail
 
 The data captures the employment status of 1,470 employees, their satisfaction levels (rated 1–4), and filters for degree levels.
 
-5.Features:
+5. Features:
 
 • Business Problem
 
@@ -62,7 +62,7 @@ Life Sciences, Medical, and Marketing show the highest attrition levels.
 	•	Attrition Rate by Gender & Age Group (Donut Charts):
 Shows how attrition percentages differ by gender across five age bands, with notable female attrition in the 25–34 and 35–44 brackets.
 
-Business Impact & Insights
+6. Business Impact & Insights
 	•	Talent Retention Focus: The high attrition in R&D and Sales departments highlights areas requiring immediate engagement efforts.
 	•	Satisfaction Insights: Lower satisfaction among Manufacturing Directors and Healthcare Representatives suggests a need for improved job enrichment.
 	•	Gender-Age Attrition Insight: Women in the 25–44 age group show higher attrition—this could inform flexible work or support programs.
