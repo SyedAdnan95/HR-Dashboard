@@ -5,13 +5,9 @@
 HR Pulse: Employee Attrition and Engagement Insights Dashboard
 A strategic Power BI dashboard designed to analyze workforce dynamics, track attrition trends, and evaluate job satisfaction across departments, age groups, and educational fields.
 
-⸻
-
 📄 Short Description / Purpose :
 
 The HR Pulse Dashboard provides a comprehensive visual summary of employee attrition patterns and satisfaction levels across an organization of 1,470 employees. It helps HR teams, executives, and decision-makers uncover key workforce trends related to age, department, education, and gender to improve retention strategies and workforce planning.
-
-⸻
 
 🧰 Tech Stack :
 
@@ -21,8 +17,6 @@ The dashboard was developed using the following tools and technologies:
 	•	🧠 DAX (Data Analysis Expressions) – Used to calculate attrition rates, age-wise breakdowns, satisfaction metrics, and dynamic filters.
 	•	🔗 Data Modeling – Tables connected via employee demographics, roles, and education fields to enable interactive cross-filtering.
 	•	📁 File Format – Developed in .pbix and exported as .jpeg for preview sharing.
-
-⸻
 
 📚 Data Source :
 
@@ -35,8 +29,6 @@ This dashboard is powered by structured internal employee data, including detail
 	•	Attrition records
 
 The data captures the employment status of 1,470 employees, their satisfaction levels (rated 1–4), and filters for degree levels.
-
-⸻
 
 🌟 Features / Highlights :
 
@@ -69,8 +61,6 @@ Displays satisfaction scores (1 to 4) across job roles. Sales Executives and Res
 Life Sciences, Medical, and Marketing show the highest attrition levels.
 	•	🚻 Attrition Rate by Gender & Age Group (Donut Charts):
 Shows how attrition percentages differ by gender across five age bands, with notable female attrition in the 25–34 and 35–44 brackets.
-
-⸻
 
 💡 Business Impact & Insights
 	•	Talent Retention Focus: The high attrition in R&D and Sales departments highlights areas requiring immediate engagement efforts.
