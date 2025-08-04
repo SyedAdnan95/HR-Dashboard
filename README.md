@@ -1,11 +1,11 @@
 # HR-Dashboard
 
-📌 Project Title / Headline :
+📌 Project Title:
 
 HR Pulse: Employee Attrition and Engagement Insights Dashboard
 A strategic Power BI dashboard designed to analyze workforce dynamics, track attrition trends, and evaluate job satisfaction across departments, age groups, and educational fields.
 
-📄 Short Description / Purpose :
+📄 Purpose :
 
 The HR Pulse Dashboard provides a comprehensive visual summary of employee attrition patterns and satisfaction levels across an organization of 1,470 employees. It helps HR teams, executives, and decision-makers uncover key workforce trends related to age, department, education, and gender to improve retention strategies and workforce planning.
 
@@ -30,7 +30,7 @@ This dashboard is powered by structured internal employee data, including detail
 
 The data captures the employment status of 1,470 employees, their satisfaction levels (rated 1–4), and filters for degree levels.
 
-🌟 Features / Highlights :
+🌟 Features:
 
 • Business Problem
 
