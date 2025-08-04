@@ -71,6 +71,5 @@ Shows how attrition percentages differ by gender across five age bands, with not
 
  📌 Screenshot Preview:
 This image displays a section of the interactive HR Analytics Dashboard developed in Power BI. It highlights key workforce metrics such as attrition rate, department-wise turnover, job satisfaction ratings, and demographic breakdowns by age, gender, and education field.
-![Alt Text](https://raw.githubusercontent.com/username/repo-name/branch-name/folder/image.png)
 
 Image : ![HR Dashboard](https://raw.githubusercontent.com/SyedAdnan95/HR-Dashboard/main/HR%20Dashboard.png)
